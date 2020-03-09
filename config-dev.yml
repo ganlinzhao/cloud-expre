@@ -2,5 +2,6 @@ spring:
   application:
     name: config-dev
     
-server：
-  port: 10
+config:
+  info: "config info for dev(dev)
+  
