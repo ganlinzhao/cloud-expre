@@ -1,6 +1,0 @@
-spring:
-  application:
-    name: config-prod
-
-config:
-  info: "config info for prod(master)"    
