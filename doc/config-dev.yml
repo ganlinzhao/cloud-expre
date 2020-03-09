@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: config-dev
+    
+config:
+  info: "config info for dev(master)"
