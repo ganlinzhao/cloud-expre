@@ -1,3 +1,6 @@
 spring:
   application:
     name: config-test
+
+config:
+  info: "config info for test(master)"    
