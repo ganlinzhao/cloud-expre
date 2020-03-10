@@ -4,3 +4,7 @@ spring:
     
 config:
   info: "config info for dev(master)"
+
+account: zhaoganlin
+repositoryUrl: https://github.com/ganlinzhao/cloud-expre.git
+
