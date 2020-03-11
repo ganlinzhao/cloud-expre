@@ -4,3 +4,7 @@ spring:
 
 config:
   info: "config info for prod(dev)"    
+
+account: zhaozhao
+repositoryUrl: www.baidu.com
+
