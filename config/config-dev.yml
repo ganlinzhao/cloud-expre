@@ -3,7 +3,7 @@ spring:
     name: cloud-config-dev
     
 config:
-  info: "config info for dev(master)"
+  info: "config info for dev(master) v2"
 
 account: ganlinzhao
 repositoryUrl: https://github.com/ganlinzhao/cloud-expre.git
